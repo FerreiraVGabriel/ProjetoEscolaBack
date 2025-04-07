@@ -1,0 +1,12 @@
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\bin\Debug\net8.0\Infra.deps.json
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\bin\Debug\net8.0\Infra.dll
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\bin\Debug\net8.0\Infra.pdb
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.dll
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\refint\Infra.dll
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\Infra.pdb
+C:\Estudos\ProjEmpresa\ProjEmpresa\Infra\obj\Debug\net8.0\ref\Infra.dll
