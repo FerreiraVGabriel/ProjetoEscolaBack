@@ -1,4 +1,5 @@
 ⚙️ Sobre o projeto
+
 Este é um projeto de API REST desenvolvida em .NET Core, seguindo uma arquitetura em camadas (Controller, Service, Repository).
 
 Seu principal objetivo é permitir o gerenciamento completo de escolas e alunos, com operações de CRUD.
