@@ -7,6 +7,7 @@ Seu principal objetivo é permitir o gerenciamento completo de escolas e alunos,
 A API utiliza autenticação via token JWT para proteger as rotas e conta com uma interface interativa de testes usando o Swagger.
 
 📦 Funcionalidades
+
 Cadastro, edição, listagem e exclusão de escolas
 
 Cadastro, edição, listagem e exclusão de alunos vinculados a uma escola
